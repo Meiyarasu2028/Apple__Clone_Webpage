@@ -29,9 +29,9 @@ function Footer() {
     return (
         <footer className="bg-gray-100 p-8">
             {/* outer flex for columns */}
-            <div className="flex flex-wrap gap-10 text-gray-700 justify-center">
+            <div className="flex flex-wrap gap-10 text-gray-700 md:justify-center ">
                 {footer.map((item, index) => (
-                    <div key={index} className="flex flex-col ">
+                    <div key={index} className="flex flex-col text-left">
                         <h3 className="font-semibold mb-2">{item.heading}</h3>
                         <ul className="flex flex-col gap-1">
                             {item.topic.map((t, i) => (
@@ -45,10 +45,10 @@ function Footer() {
 
             </div>
             <div>
-                <p className="text-left mt-10 text-sm">More ways to shop: Find an Apple Store or other retailer near you. Or call 000800 040 1966.</p>
-                <hr className="h-px bg-gray-300 border-0 my-6" />
+                <p className="text-left mt-10 text-sm md:px-16 mb-3">More ways to shop: Find an Apple Store or other retailer near you. Or call 000800 040 1966.</p>
+                <hr className=" border border-gray-400 md:mx-16" />
             </div>
-            <div className="flex items-center gap-5 flex-wrap ">
+            <div className="flex items-center gap-5 flex-wrap md:px-16 mt-3">
                 <p className="text-sm text-gray-500 text-center">© 2025 Apple Inc. All rights reserved.</p>
                 <p className="text-sm text-gray-500 text-center">Privacy Policy | Terms of Use | Sales Policy | Legal | Site Map</p>
             </div>
