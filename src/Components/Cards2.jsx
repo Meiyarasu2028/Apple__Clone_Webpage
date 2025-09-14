@@ -11,16 +11,16 @@ const Card2 = () => {
                                 "url(https://www.apple.com/v/apple-watch-series-11/a/images/overview/highlights/highlights_glass_endframe__f39nueq3bfiy_large_2x.jpg)",
                             backgroundSize: "contain",
                             backgroundPosition: "center top",
-                            backgroundRepeat:"no-repeat",
+                            backgroundRepeat: "no-repeat",
                             height: "100vh",
-                            
-                           
+
+
                         }}
                         className="flex flex-col justify-end p-10 text-black"
                     >
-                        
+
                         <div>
-                            <h1 className="text-4xl font-bold tracking-tight py-2 flex justify-center "><FaApple/> Watch  <span className="text-4xl font-medium">SERIES 11</span></h1>
+                            <h1 className="text-4xl font-bold tracking-tight py-2 flex justify-center "><FaApple /> Watch  <span className="text-4xl font-medium">SERIES 11</span></h1>
                         </div>
 
                         <div>

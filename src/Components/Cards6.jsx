@@ -11,8 +11,6 @@ const Card6 = () => {
                         backgroundRepeat: "no-repeat",
                         backgroundPosition: "center ",
                         height: "100vh",
-
-
                     }}
                     className="flex flex-col justify-end p-10 text-black text-center"
                 >
@@ -20,10 +18,8 @@ const Card6 = () => {
                         <div>
                             <h1 className="text-4xl font-semibold tracking-tight py-2 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">AirPods Pro 3</h1>
                         </div>
-
                         <div>
-                            <p className="text-xl tracking-tight bg-gradient-to-r from-blue-400 via-teal-400 to-cyan-500
-              bg-clip-text text-transparent">The world's best in-ear.Active Noise Cancellation.</p>
+                            <p className="text-xl tracking-tight bg-gradient-to-r from-blue-400 via-teal-400 to-cyan-500bg-clip-text text-transparent">The world's best in-ear.Active Noise Cancellation.</p>
                             <p className="mt-2 text-gray-500 text-md fond-bold tracking-tight">Available from 19 Sep</p>
 
                             <div className="flex gap-5 justify-center mt-5">

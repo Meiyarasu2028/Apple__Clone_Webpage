@@ -5,12 +5,12 @@ function Header() {
         style={{
           backgroundImage: "url(https://www.apple.com/v/iphone-17-pro/a/images/overview/welcome/hero__bdntboqignj6_xlarge.jpg)",
           backgroundSize: "contain",
-          backgroundRepeat:"no-repeat",
+          backgroundRepeat: "no-repeat",
           backgroundPosition: "center ",
-          backgroundColor:"black",
+          backgroundColor: "black",
           height: "100vh",
           width: "100%",
-        }}className="z-10"
+        }} className="z-10"
       >
 
         <div className="flex flex-col items-center justify-end h-full text-white text-center">
@@ -23,7 +23,7 @@ function Header() {
           <p className="mt-4 text-lg font-bold mb-10">Available from 19 Sep</p>
         </div>
       </header>
-      
+
     </>
   );
 }

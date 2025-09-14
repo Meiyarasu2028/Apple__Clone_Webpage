@@ -13,9 +13,6 @@ import Card5 from './Components/Cards5'
 import Card6 from './Components/Cards6'
 import About from './Components/About'
 import Footer from './Components/Footer'
-
-
-
 function App() {
   const [count, setCount] = useState(0)
 
@@ -26,16 +23,16 @@ function App() {
       <Hero />
       <SubHero />
       <div className="flex gap-5 flex-wrap">
-        <Card1/>
-        <Card2/>
-        <Card3/>
-        <Card4/>
-        <Card5/>
-        <Card6/>
+        <Card1 />
+        <Card2 />
+        <Card3 />
+        <Card4 />
+        <Card5 />
+        <Card6 />
       </div>
-      <About/>
-      <Footer/>
-     
+      <About />
+      <Footer />
+
 
     </>
   )
