@@ -66,7 +66,7 @@ function NavBar() {
 
                 <div className="bg-black text-white pb-10 ">
                     <div className="bg-gray-950 p-3">
-                        <p className="text-sm font-semibold">Get up to 6 months of No Cost EMI◊ plus up to ₹10000 instant cashback‡ on selected products with eligible cards. <span className="text-blue-800 hover:underline cursor-pointer">Shop</span> </p>
+                        <p className="text-sm font-semibold text-center">Get up to 6 months of No Cost EMI◊ plus up to ₹10000 instant cashback‡ on selected products with eligible cards. <span className="text-blue-800 hover:underline cursor-pointer">Shop</span> </p>
                     </div>
                 </div>
             </nav>

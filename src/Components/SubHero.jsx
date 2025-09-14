@@ -2,7 +2,7 @@ function SubHero() {
 
     return (
         <>
-            <div className="bg-gray-50 px-4 py-6">
+            <div className="bg-gray-50 px-4 py-6 text-center">
                 <h1 className="text-6xl font-semibold tracking-tight">iPhone Air</h1>
                 <p className="text-3xl mt-3 tracking-tight ">Magichromatic..</p>
                 <p className="mt-3 text-gray-500 text-xl tracking-tight">Available from 19 Sep</p>

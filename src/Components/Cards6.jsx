@@ -14,7 +14,7 @@ const Card6 = () => {
 
 
                     }}
-                    className="flex flex-col justify-end p-10 text-black"
+                    className="flex flex-col justify-end p-10 text-black text-center"
                 >
                     <div className="bg-gray-100/40 p-8 max-w-full backdrop:blur-md">
                         <div>

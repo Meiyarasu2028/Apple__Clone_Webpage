@@ -16,7 +16,7 @@ const Card3 = () => {
                             boxShadow:"rgba(100, 100, 111, 0.2) 0px 7px 29px 0px" 
                             
                         }}
-                        className="flex flex-col justify-end p-10 text-black"
+                        className="flex flex-col justify-end p-10 text-black text-center"
                     >
 
                         <div>

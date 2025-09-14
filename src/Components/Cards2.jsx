@@ -3,7 +3,7 @@ import { FaApple } from "react-icons/fa"
 const Card2 = () => {
     return (
         <>
-            <div className="mt-10 basis-1/3 flex-1  bg-gray-100">
+            <div className="mt-10 basis-1/3 flex-1  bg-gray-100 text-center">
                 <div>
                     <div
                         style={{

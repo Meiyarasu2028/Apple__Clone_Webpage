@@ -11,13 +11,13 @@ const Card5 = () => {
                             backgroundRepeat:"no-repeat",
                             backgroundPosition: "center bottom",
                             height: "100vh",
-                            boxShadow:"rgba(100, 100, 111, 0.2) 0px 7px 29px 0px"
+                            boxShadow:"rgba(100, 100, 111, 0.2) 0px 7px 29px 0px "
                            
 
                         
                             
                         }}
-                        className="flex flex-col justify-start p-4 text-white"
+                        className="flex flex-col justify-start p-4 text-white text-center"
                     >
 
                         <div>

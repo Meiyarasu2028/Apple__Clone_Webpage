@@ -13,7 +13,7 @@ const Card1 = () => {
                            
                             
                         }}
-                        className="flex flex-col justify-between p-10 text-black"
+                        className="flex flex-col justify-between p-10 text-black text-center"
                     >
 
                         <div>

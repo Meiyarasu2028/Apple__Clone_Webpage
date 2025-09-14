@@ -2,7 +2,7 @@ function Hero() {
 
     return (
         <>
-            <div className="mt-20 bg-gray-50 px-4 py-6">
+            <div className="mt-20 bg-gray-50 px-4 py-6 text-center">
                 <h1 className="text-6xl font-semibold tracking-tight">iPhone Air</h1>
                 <p className="text-3xl mt-3 tracking-tight ">The thinnest iPhone ever.</p>
                 <p className="text-3xl tracking-tight ">With the powerof proinside.</p>

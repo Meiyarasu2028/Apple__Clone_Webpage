@@ -15,7 +15,7 @@ const Card4 = () => {
                         
                             
                         }}
-                        className="flex flex-col justify-between p-4 text-white"
+                        className="flex flex-col justify-between p-4 text-white text-center"
                     >
 
                         <div>
