@@ -1,6 +1,4 @@
 import { useState } from 'react'
-
-import viteLogo from '/vite.svg'
 import './App.css'
 
 import NavBar from './Components/NavBar'
@@ -8,9 +6,9 @@ import Header from './Components/Header'
 import Hero from './Components/Hero'
 import SubHero from './Components/SubHero'
 import Card1 from './Components/Cards1'
-import Card2 from './Components/cards2'
-import Card3 from './Components/cards3'
-import Card4 from './Components/cards4'
+import Card2 from "./Components/Cards2"
+import Card3 from './Components/Cards3'
+import Card4 from './Components/Cards4'
 import Card5 from './Components/Cards5'
 import Card6 from './Components/Cards6'
 import About from './Components/About'
